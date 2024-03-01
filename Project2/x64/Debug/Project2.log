@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Student17\source\repos\Project2\Project2\MyForm.h(138,11): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> C:\Users\Student17\source\repos\Project2\x64\Debug\Project2.exe
